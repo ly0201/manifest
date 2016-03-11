@@ -15,4 +15,7 @@
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
   <project path="devices/base" name="FlymeOS/devices-base" />
+  <project path="devices/base5.1" name="FlymeOS/devices-base" revision="lollipop-5.1" />
+  <project path="devices/base_cm" name="FlymeOS/devices-base_cm" />
+  <project path="devices/base_cm5.1" name="FlymeOS/devices-base_cm" revision="lollipop-5.1" />
 </manifest>
